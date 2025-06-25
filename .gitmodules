@@ -1,0 +1,9 @@
+[submodule "vcpkg"]
+	path = vcpkg
+	url = https://github.com/Microsoft/vcpkg.git
+[submodule "external/liquibook"]
+	path = external/liquibook
+	url = https://github.com/t-flora/liquibook.git
+[submodule "external/MPC"]
+	path = external/MPC
+	url = https://github.com/t-flora/MPC.git
