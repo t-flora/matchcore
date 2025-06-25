@@ -174,7 +174,7 @@ Environment configuration with relative paths:
 ### Common Issues
 
 1. **Boost headers not found**
-   - Verify vcpkg Boost installation: `./vcpkg/vcpkg install boost-test`
+   - Verify vcpkg Boost installation: `./vcpkg/vcpkg install boost`
    - Check `BOOST_ROOT` path in `env.sh`
 
 2. **MPC not found**
